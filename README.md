@@ -126,12 +126,14 @@ A real-time human fall detection system using OpenCV and motion analysis to dete
 
 
 
+<!--
 ## 📫 Connect With Me
 
 - 💼 Portfolio: YOUR_PORTFOLIO_LINK
 - 💻 GitHub: https://github.com/lavanyapc
 - 💼 LinkedIn: YOUR_LINKEDIN_LINK
 - 📧 Email: YOUR_EMAIL
+-->
 
 ---
 
