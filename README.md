@@ -15,8 +15,7 @@ Passionate about building software that solves real-world problems through backe
 - Final-year B.Tech Computer Science Engineering (IoT) at Shiv Nadar University Chennai
 - Chennai, India
 - Interested in Backend Development, IoT, Cybersecurity and FinTech
-- Currently learning Java, Spring Boot, PostgreSQL and System Design
-- 🤝 Always excited to work on projects that combine software with real-world applications
+- Always excited to work on projects that combine software with real-world applications
 
 ---
 
@@ -102,18 +101,6 @@ A real-time human fall detection system using OpenCV and motion analysis to dete
 
 
 
-##  GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lavanyapc&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyapc&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ##  GitHub Streak
 
 <p align="center">
@@ -127,18 +114,16 @@ A real-time human fall detection system using OpenCV and motion analysis to dete
 
 
 <!--
-## 📫 Connect With Me
+## Connect With Me
 
-- 💼 Portfolio: YOUR_PORTFOLIO_LINK
 - 💻 GitHub: https://github.com/lavanyapc
-- 💼 LinkedIn: YOUR_LINKEDIN_LINK
-- 📧 Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/lavanya-pc-226544342/
 -->
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 </p>
